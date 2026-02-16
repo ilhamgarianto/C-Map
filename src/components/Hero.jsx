@@ -54,7 +54,7 @@ const Hero = () => {
 
         <div className="mt-10 flex flex-col sm:flex-row justify-center gap-4">
           <a
-            href="http://10.3.1.151:8030/"
+            href="https://c-map.cimahikota.go.id/c-map"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white text-indigo-700 font-semibold rounded-lg hover:shadow-2xl hover:-translate-y-1 transition-all duration-300"
           >
             Jelajahi Peta
